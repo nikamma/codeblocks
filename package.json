@@ -1,1 +1,17 @@
-codeblocks
+{
+  "name": "CodeBlocks",
+  "version": "0.0.1",
+  "description": "This is a Pickup project in new ES6,7.0 & Redux Pattern",
+  "author": "Nikamma Friends",
+  "repository": {},
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0"
+  },
+  "scripts": {}
+}

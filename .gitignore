@@ -1,1 +1,3 @@
-codeblocks
+# Git Ignore - Add all files that you do not want to commit & push to the repository.
+
+node_modules

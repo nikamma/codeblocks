@@ -1,0 +1,4 @@
+# Npm Ignore - Add all files that you do not want to publish to NPM repository. 
+
+node_modules
+
